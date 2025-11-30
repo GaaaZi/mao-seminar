@@ -21,3 +21,4 @@ seminar/
 2025/11/30(1)メモ。by.test1
 2025/11/30(2) by.master
 2025/11/30(3) by.remote-master
+2025/11/30(4) by.master➡test1 
